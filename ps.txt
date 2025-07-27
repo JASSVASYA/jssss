@@ -1,2 +1,2 @@
 testpasswordgithubuss false
-rndpass true
+rndpass false
