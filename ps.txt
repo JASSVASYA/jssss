@@ -1,2 +1,3 @@
 testpasswordgithubuss false
 rndpass true
+newpass true
